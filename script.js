@@ -6,7 +6,7 @@ let cityName=document.querySelector(".city-name");
 let humidity=document.querySelector(".humidity");
 let windSpeed=document.querySelector(".windy");
 let details=document.querySelector(".weather");
-const APIKey="a63e6e7ea0f877e3a08dbd20889add0b";
+const APIKey="";
 
 
 
